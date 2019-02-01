@@ -2,6 +2,7 @@
 To-Do List app for CodePath Android pre-work assignment. **To-Do List** is an android app that allows building a todo list and basic todo items management functionality including adding new items, editing and deleting an existing item.
 
 Submitted by: Megan St. Hilaire
+
 Time spent: **6** hours spent in total
 
 ## User Stories

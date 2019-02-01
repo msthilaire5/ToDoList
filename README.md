@@ -24,13 +24,13 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='ToDoListWalkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-
+My main difficulty with this project was placing the UI features (button, ListView, text box). My version of Android Studio didn't show the orange dashed box for alignment, so I switched to XML for positioning those elements.
 
 ## License
 
